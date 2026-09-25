@@ -577,6 +577,7 @@ overflow: hidden;
 background: var(--monte) url('../imagenes/seis6.jpg') center / cover no-repeat;
 color: #fff;
 padding: clamp(3.5rem, 9vw, 6.5rem) 0;
+width: 100%;
 }
 
 .disco {
